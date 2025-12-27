@@ -2,7 +2,6 @@
 
 This repository deploys a minimal ELK stack (Elasticsearch, Logstash, Kibana) plus Filebeat and an nginx demo app on Kubernetes. It is designed for learning log collection, filtering, and Kibana discovery.
 
-![Kibana Discover with nginx logs](kibana-nginx.png)
 
 ![alt text](kibana-nginx.png)
 
