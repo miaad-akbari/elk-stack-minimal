@@ -84,5 +84,4 @@ kubectl -n logging port-forward svc/kibana 5601:5601
 ## Screenshots
 
 Place your screenshots in `docs/` using these filenames:
-- `elk-manifests.png`
 - `kibana-nginx.png`
